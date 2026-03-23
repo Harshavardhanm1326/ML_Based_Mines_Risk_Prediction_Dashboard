@@ -24,3 +24,5 @@ Mining operations face significant safety and environmental risks. This tool use
 - Jupyter Notebook or Google Colab (for training and evaluation)
 - (Optional) Streamlit for web app deployment
 
+## App Dashboard - https://mlbasedminesriskpredictiondashboard-srpqmowelcjyqoizlfeaqs.streamlit.app/
+
